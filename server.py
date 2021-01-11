@@ -11,7 +11,7 @@ sentry_sdk.init(
 
 @route("/")
 def main():
-    result = HTTPResponse(status=200, body="200 OK")
+    result = HTTPResponse(status=200, body="OK")
     return result
 
 @route("/success")
