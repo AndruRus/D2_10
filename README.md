@@ -6,8 +6,8 @@ http://localhost:8080/success
 
 http://localhost:8080/fail
 
-https://protected-sands-18563.herokuapp.com
+https://sleepy-brushlands-89442.herokuapp.com
 
-https://protected-sands-18563.herokuapp.com/success
+https://sleepy-brushlands-89442.herokuapp.com/success
 
-https://protected-sands-18563.herokuapp.com/fail
+https://sleepy-brushlands-89442.herokuapp.com/fail
