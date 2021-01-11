@@ -6,8 +6,8 @@ http://localhost:8080/success
 
 http://localhost:8080/fail
 
-https://sleepy-brushlands-89442.herokuapp.com
+https://fierce-escarpment-48804.herokuapp.com
 
-https://sleepy-brushlands-89442.herokuapp.com/success
+https://fierce-escarpment-48804.herokuapp.com/success
 
-https://sleepy-brushlands-89442.herokuapp.com/fail
+https://fierce-escarpment-48804.herokuapp.com/fail
