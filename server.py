@@ -2,13 +2,13 @@
 
 import os
 import sentry_sdk
-
 from bottle import route, run, HTTPError, HTTPResponse
 from sentry_sdk.integrations.bottle import BottleIntegration
+from userapp import SENTRY_DSN
 
 #подключаем sentry
 sentry_sdk.init(
-    dsn="sentry_dsn",
+    dsn="SENTRY_DSN",
     integrations=[BottleIntegration()]
 )
 
