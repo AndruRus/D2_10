@@ -11,12 +11,12 @@ sentry_sdk.init(
 
 @route("/")
 def main():
-    result = HTTPResponse(status=200, body="OK")
+    result = HTTPResponse(status=200, body="200 OK")
     return result
 
 @route("/success")
 def success():
-    result = HTTPResponse(status=200, body="OK")
+    result = HTTPResponse(status=200, body="200 OK")
     return result
 
 @route("/fail")
