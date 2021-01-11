@@ -8,7 +8,7 @@ from sentry_sdk.integrations.bottle import BottleIntegration
 
 #подключаем sentry
 sentry_sdk.init(
-    dsn="https://986303b801c94128a4d060353238b45a@o496969.ingest.sentry.io/5572405",
+    dsn="sentry_dsn",
     integrations=[BottleIntegration()]
 )
 
